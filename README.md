@@ -1,5 +1,5 @@
 # qPCR-Data-Evaluation
-R-based script based on the 2−ΔΔCt method allowing for automated qPCR data evaluation and visualisation.
+R-based script based on the 2−ΔΔCt method for automated qPCR data evaluation and visualisation.
 
 
 Allows for automated evaluation of the relative changes in gene expression data from real-time, quantitative PCR experiments using the 2−ΔΔCt method. 
